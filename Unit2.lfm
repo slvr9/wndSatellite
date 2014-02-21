@@ -1,0 +1,15 @@
+object Form2: TForm2
+  Left = 596
+  Height = 121
+  Top = 145
+  Width = 160
+  BorderStyle = bsNone
+  Caption = 'Form2'
+  FormStyle = fsStayOnTop
+  OnCreate = FormCreate
+  OnMouseEnter = FormMouseEnter
+  OnMouseLeave = FormMouseLeave
+  OnPaint = FormPaint
+  LCLVersion = '1.2.0.2'
+  Visible = True
+end
